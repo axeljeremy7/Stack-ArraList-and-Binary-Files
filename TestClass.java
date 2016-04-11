@@ -1,9 +1,7 @@
-package edu.wmich.cs1120.spring16.la6.tts5535;
+
 
 import java.io.IOException;
-import edu.wmich.cs1120.spring16.la6.tts5535.application.Application;
-import edu.wmich.cs1120.spring16.la6.tts5535.lists.ArrayList;
-import edu.wmich.cs1120.spring16.la6.tts5535.lists.IList;
+
 
 public class TestClassLab6 {
 
