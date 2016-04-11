@@ -1,6 +1,4 @@
-package edu.wmich.cs1120.spring16.la6.tts5535.stacks;
-import edu.wmich.cs1120.spring16.la6.tts5535.lists.ArrayList;
-import edu.wmich.cs1120.spring16.la6.tts5535.lists.IList;
+
 
 public class Stack implements IStack {
 	
