@@ -1,6 +1,3 @@
-package edu.wmich.cs1120.spring16.la6.tts5535.application;
-
-import edu.wmich.cs1120.spring16.la6.tts5535.lists.*;
 
 public interface IApplication {
 	
