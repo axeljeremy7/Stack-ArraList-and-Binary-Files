@@ -1,4 +1,4 @@
-package edu.wmich.cs1120.spring16.la6.tts5535.application;
+
 
 import java.io.DataInputStream;
 import java.io.DataOutputStream;
@@ -8,10 +8,6 @@ import java.io.FileOutputStream;
 import java.io.IOException;
 
 
-import edu.wmich.cs1120.spring16.la6.tts5535.lists.ArrayList;
-import edu.wmich.cs1120.spring16.la6.tts5535.lists.IList;
-import edu.wmich.cs1120.spring16.la6.tts5535.stacks.IStack;
-import edu.wmich.cs1120.spring16.la6.tts5535.stacks.Stack;
 
 public class Application implements IApplication {
 	private String str;// to return each sentence in reverse
