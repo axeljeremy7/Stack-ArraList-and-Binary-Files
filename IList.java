@@ -1,4 +1,4 @@
-package edu.wmich.cs1120.spring16.la6.tts5535.lists;
+
 public interface IList {
 	/**
 	* Adds the element e to the end of the list. 
