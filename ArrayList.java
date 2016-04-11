@@ -1,4 +1,4 @@
-package edu.wmich.cs1120.spring16.la6.tts5535.lists;
+
 
 public class ArrayList implements IList {
 	private String[] str=new String[3];// the size initilized here does not matter because this is going to be affected by add methods
