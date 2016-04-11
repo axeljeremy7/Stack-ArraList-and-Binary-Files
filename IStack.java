@@ -1,4 +1,4 @@
-package edu.wmich.cs1120.spring16.la6.tts5535.stacks;
+
 
 public interface IStack {
 	/**
